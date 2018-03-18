@@ -1,0 +1,346 @@
+1946,ENIAC Short Code
+1946,Von Neumann and Goldstine graphing system (Notation)
+1947,ARC Assembly
+1948,CPC Coding scheme
+1948,Curry notation system
+1948,Plankalkül (concept published)
+1949,Short Code
+1950,Short Code
+1950,Birkbeck Assembler
+1951,Superplan
+1951,ALGAE
+1951,Regional Assembly Language
+1951,Boehm unnamed coding system
+1951,Klammerausdrücke
+1951,OMNIBAC Symbolic Assembler
+1951,Stanislaus (Notation)
+1951,Whirlwind assembler
+1951,Rochester assembler
+1951,Sort Merge Generator
+1952,A-0
+1952,Glennie Autocode
+1952,Editing Generator
+1952,COMPOOL
+1953,Speedcoding
+1953,READ/PRINT
+1954,Laning and Zierler system
+1954,Mark I Autocode
+1954,ARITH-MATIC
+1954,MATH-MATIC
+1954,MATRIX MATH
+1954,IPL I (concept)
+1955,FLOW-MATIC
+1955,PACT I
+1957,COMTRAN
+1957,GEORGE
+1957,Fortran I (implementation)
+1957,COMIT (concept)
+1958,Fortran II
+1958,ALGOL 58 (IAL)
+1958,IPL V
+1959,APT
+1959,FACT
+1959,COBOL (concept)
+1959,JOVIAL
+1959,LISP (implementation)
+1959,MAD – Michigan Algorithm Decoder
+1959,TRAC (concept)
+1960,ALGOL 60
+1960,COBOL 61 (implementation)
+1961,COMIT (implementation)
+1962,FORTRAN IV
+1962,APL (concept)
+1962,Simula (concept)
+1962,SNOBOL
+1963,CPL
+1963,SNOBOL3
+1963,ALGOL 68 (concept)
+1963,JOSS I
+1964,MIMIC
+1964,COWSEL
+1964,PL/I (concept)
+1964,BASIC
+1964,IBM RPG
+1964,Mark-IV
+1964,Speakeasy-2
+1964,TRAC (implementation)
+1964,P′′
+1965,RPG II
+1965,MAD/I (concept)
+1965,TELCOMP
+1965,Atlas Autocode
+1966,JOSS II
+1966,ALGOL W
+1966,FORTRAN 66
+1966,ISWIM (Concept)
+1966,CORAL66
+1967,MUMPS
+1967,Simula 67 (implementation)
+1967,InterLisp
+1967,EXAPT
+1967,SNOBOL4
+1967,XPL
+1967,Space Programming Language (SPL)
+1968,IFIP standard)
+1968,POP-1
+1968,DIBOL-8
+1968,Forth (concept)
+1968,LOGO
+1968,MAPPER
+1968,REFAL (implementation)
+1968,TTM (implementation)
+1968,PILOT
+1969,PL/I (implementation)
+1969,B
+1969,Polymorphic Programming Language (PPL)
+1969,SETL
+1969,TUTOR
+1969,Edinburgh IMP
+1970,POP-2
+1970,Pascal
+1970,BLISS
+1971,KRL
+1971,Sue
+1971,Compiler Description Language (CDL)
+1972,Smalltalk
+1972,PL/M
+1972,C
+1972,INTERCAL
+1972,Prolog
+1973,COMAL
+1973,ML
+1973,LIS
+1973,Speakeasy-3
+1974,CLU
+1974,GRASS
+1974,BASIC FOUR
+1974,PROSE modeling language
+1975,ABC
+1975,Irvine Dataflow (concept)
+1975,PROSE modeling language Time-Sharing Version
+1975,Scheme
+1975,Altair BASIC
+1975,CS-4
+1975,Modula
+1976,Plus
+1976,Smalltalk-76
+1976,Mesa
+1976,SAM76
+1976,Ratfor
+1976,S
+1976,SAS
+1976,Integer BASIC
+1977,FP
+1977,Bourne Shell (''sh'')
+1977,Commodore BASIC
+1977,IDL
+1977,Standard MUMPS
+1977,Icon (concept)
+1977,Blue
+1977,Yellow
+1977,Applesoft BASIC
+1978,RAPT
+1978,C shell
+1978,RPG III
+1978,HAL/S
+1978,Applesoft II BASIC
+1975,Irvine Dataflow (implementation)
+1978,VisiCalc
+1979,Modula-2
+1979,REXX
+1979,AWK
+1979,Icon (implementation)
+1979,Vulcan dBase-II
+1980,Ada 80 (MIL-STD-1815)
+1980,C with classes
+1980,Applesoft III
+1980,Apple III Microsoft BASIC
+1981,BBC BASIC
+1981,IBM BASICA
+1982,PostScript
+1983,GW-BASIC
+1983,Turbo Pascal
+1983,Ada 83 (ANSI/MIL-STD-1815A)
+1983,Objective-C
+1983,C++
+1983,True BASIC
+1983,occam
+1983,Korn Shell (''ksh'')
+1984,Common Lisp
+1984,RPL
+1984,Standard ML
+1984,Redcode
+1984,OPL
+1985,PARADOX
+1985,QuickBASIC
+1986,CorVision
+1986,Eiffel
+1986,GFA BASIC
+1986,Informix-4GL
+1986,LabVIEW
+1986,Miranda
+1986,Object Pascal
+1986,PROMAL
+1986,Erlang
+1987,Ada ISO 8652:1987
+1987,Self (concept)
+1987,occam 2
+1987,HyperTalk
+1987,Perl
+1987,Oberon
+1987,Wolfram Language
+1987,Turbo Basic
+1987,Clean
+1988,RPG/400
+1988,Octave
+1988,Tcl
+1988,STOS BASIC
+1988,Object REXX
+1988,SPARK
+1988,A+
+1988,Hamilton C shell
+1989,Turbo Pascal OOP
+1989,Modula-3
+1989,PowerBASIC
+1989,VisSim
+1989,LPC
+1989,Bash
+1990,AMOS BASIC
+1990,AMPL
+1990,Object Oberon
+1990,J
+1990,Haskell
+1990,EuLisp
+1990,Z Shell (''zsh'')
+1991,GNU E
+1991,Oberon-2
+1991,Python
+1991,Oz
+1991,Q
+1991,Visual Basic
+1992,Borland Pascal
+1992,Dylan
+1992,S-Lang
+1993,Amiga E
+1993,Brainfuck
+1993,LiveCode Transcript
+1993,AppleScript
+1993,K
+1993,Lua
+1993,R
+1993,ZPL
+1993,NewtonScript
+1993, Euphoria
+1994,Claire
+1994,ANSI Common Lisp
+1994,RAPID
+1994,Pike
+1994,ANS Forth
+1995,Ada 95
+1995,Borland Delphi
+1995,ColdFusion (CFML)
+1995,Java
+1995,LiveScript
+1995,Mercury
+1995,PHP
+1995,Ruby
+1995,JavaScript
+1996,Curl
+1996,Lasso
+1996,Perl Data Language (PDL)
+1996,VBScript
+1996,OCaml
+1996,NetRexx
+1997,Component Pascal
+1997,E
+1997,Pico
+1997,Squeak Smalltalk
+1997,ECMAScript
+1997,F-Script
+1997,ISLISP
+1997,Tea
+1997,REBOL
+1998,ActionScript
+1998,Standard C++
+1998,M2001
+1998,Pikt
+1998,PureBasic
+1998,UnrealScript
+1998,XPath)
+1999,Game Maker Language (GML)
+1999,Harbour
+2000,Join Java
+2000,XL
+2000,C#
+2000,Ferite
+2000,Modern Pascal
+2001,Joy
+2001,AspectJ
+2001,D
+2001,Processing
+2001,Visual Basic .NET
+2001,GDScript (GDS)
+2002,Io
+2002,Gosu
+2002,Scratch
+2003,Nemerle
+2003,Factor
+2003,Falcon
+2003,Scala
+2003,C++03
+2003,Squirrel
+2003,Boo
+2004,Subtext
+2004,Alma-0
+2004,FreeBASIC
+2004,Groovy
+2004,Little b
+2005,Fantom
+2005,F#
+2005,Haxe
+2005,Oxygene
+2005,Seed7
+2006,Links
+2006,Cobra
+2006,Windows PowerShell
+2006,OptimJ
+2006,Fortress
+2006,Vala
+2007,Ada 2005
+2007,Agda
+2007,Clojure
+2007,LOLCODE
+2007,Oberon-07
+2008,Nim
+2008,Genie
+2008,Pure
+2009,Chapel
+2009,Go
+2009,CoffeeScript
+2009,Idris
+2009,Parasail
+2009,Whiley
+2010,Rust
+2011,Ceylon
+2011,Dart
+2011,C++11
+2011,Kotlin
+2012,Elixir
+2012,Elm
+2012,TypeScript
+2012,Julia
+2012,P
+2012,Ada 2012
+2014,Crystal
+2014,Hack
+2014,Swift
+2014,C++14
+2015,Perl 6
+2016,Ring
+2017,C++17
+1949,Assembly
+1984,Matlab
+1986,SQL
+2001,VB.NET
+1993,VBA
+1998,Visual Basic 6
